@@ -1,0 +1,20 @@
+#apps{
+text-align:center;
+    background-color:azure;
+    margin-left:25px;
+    margin-right:25px;
+        
+    }
+.line{
+background-color:black;
+    height:5px;
+    width:100px;
+    margin:auto;
+    margin-bottom:10px
+}
+#Games{
+text-align:center;
+    background-color:burlywood;
+    margin-left:25px;
+    margin-right:25px;
+    }
